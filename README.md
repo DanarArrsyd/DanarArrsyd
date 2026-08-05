@@ -4,7 +4,7 @@
 
 ### Eka Danar Arrasyid
 
-Production & Maintenance Administrator at PT. Kenco Manufaktur Indonesia<br>
+Production & Maintenance Administrator at PT. Kenco Manufactur Indonesia<br>
 Informatics Engineering — Universitas Pelita Bangsa
 
 <br>
@@ -22,10 +22,6 @@ Informatics Engineering — Universitas Pelita Bangsa
 ### About
 
 I build internal systems for a stamping-press automotive manufacturer — the kind of software that runs on the shop floor, not in a demo. My work sits between production planning and engineering: I understand the process first, then write the system around it.
-
-- **SINNIC** — PPIC & stock opname platform. PHP Native MVC, 16-table schema, 9 role levels. Deployed in production.
-- **Kenco Career Portal** — recruitment portal with OTP verification via PHPMailer.
-- **Dandori Loss Time System** — Google Sheets + Apps Script, iterated through five schema revisions.
 
 Currently building a freelance web & software development practice, with a focus on AI-assisted development workflows.
 

@@ -1,33 +1,42 @@
-name: Update streak stats
+name: Generate Streak Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-  push:
-    paths:
-      - ".github/workflows/streak.yml"
+    - cron: "0 0 * * *"
   workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  streak:
     permissions:
       contents: write
-
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+      - name: Generate streak stats SVG
+        uses: DenverCoder1/github-readme-streak-stats-action@v1
         with:
-          options: user=${{ github.repository_owner }}&hide_border=true&background=00000000&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&disable_animations=false
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          output: profile/streak.svg
+          hide_border: "true"
+          background: "00000000"
+          stroke: "30363D"
+          ring: "E6EDF3"
+          fire: "E6EDF3"
+          currStreakNum: "E6EDF3"
+          sideNums: "8B949E"
+          currStreakLabel: "8B949E"
+          sideLabels: "8B949E"
+          dates: "6E7681"
 
-      - name: Commit streak stats
+      - name: Commit generated SVG
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git diff --staged --quiet || git commit -m "chore: update streak stats"
           git push

@@ -9,9 +9,10 @@ Informatics Engineering — Universitas Pelita Bangsa
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=safari&logoColor=E6EDF3&labelColor=0D1117)](https://edanararrasyid.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117)](https://www.linkedin.com/in/ekadanararrasyid)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E6EDF3&labelColor=0D1117)](https://www.instagram.com/danar_arrsyd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&labelColor=0D1117)](https://edanararrasyid.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/ekadanararrasyid)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&labelColor=0D1117)](https://www.instagram.com/danar_arrsyd)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&labelColor=0D1117)](https://github.com/DanarArrsyd)
 
 </div>
 

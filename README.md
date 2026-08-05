@@ -28,13 +28,9 @@ Informatics Engineering — Universitas Pelita Bangsa
 
 <br>
 
+## About
+
 I build internal systems for a stamping-press automotive manufacturer — software that runs on the shop floor, not in a demo. My work sits between production planning and engineering: understand the process first, then write the system around it.
-
-**SINNIC** — PPIC and stock opname platform. PHP Native MVC, 16-table schema, 9 role levels. Running in production.
-
-**Kenco Career Portal** — recruitment portal with OTP verification via PHPMailer.
-
-**Dandori Loss Time System** — Google Sheets and Apps Script, iterated through five schema revisions.
 
 Currently building a freelance web and software development practice, with a focus on AI-assisted development workflows.
 
@@ -44,13 +40,33 @@ Currently building a freelance web and software development practice, with a foc
 
 <br>
 
+## Selected Work
+
+**SINNIC** — PPIC and stock opname platform. PHP Native MVC, 16-table schema, 9 role levels. Running in production.
+
+**Kenco Career Portal** — recruitment portal with OTP verification via PHPMailer.
+
+**Dandori Loss Time System** — Google Sheets and Apps Script, iterated through five schema revisions.
+
+<br>
+
+---
+
+<br>
+
+## Stack
+
 <div align="center">
+
+<br>
 
 `PHP` &nbsp;&nbsp;·&nbsp;&nbsp; `MySQL` &nbsp;&nbsp;·&nbsp;&nbsp; `JavaScript` &nbsp;&nbsp;·&nbsp;&nbsp; `Google Apps Script` &nbsp;&nbsp;·&nbsp;&nbsp; `Supabase`
 
 <br>
 
 `Claude API` &nbsp;&nbsp;·&nbsp;&nbsp; `Gemini API` &nbsp;&nbsp;·&nbsp;&nbsp; `DeepSeek API` &nbsp;&nbsp;·&nbsp;&nbsp; `Prompt Engineering`
+
+<br>
 
 </div>
 
@@ -60,12 +76,28 @@ Currently building a freelance web and software development practice, with a foc
 
 <br>
 
+## Contribution Streak
+
 <div align="center">
+
+<br>
 
 <img src="./profile/streak.svg" width="60%" alt="" />
 
 <br>
+
+</div>
+
 <br>
+
+---
+
+<br>
+
+## Contribution Graph
+
+<div align="center">
+
 <br>
 
 <picture>

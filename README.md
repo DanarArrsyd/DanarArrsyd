@@ -6,7 +6,7 @@
 
 <br>
 
-Production &amp; Maintenance Administrator at PT. Kenco Manufaktur Indonesia<br>
+Production &amp; Maintenance Administrator at PT. Kenco Manufactur Indonesia<br>
 Informatics Engineering — Universitas Pelita Bangsa
 
 <br>

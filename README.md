@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=20&pause=1200&color=E6EDF3&center=true&vCenter=true&width=520&height=40&lines=Software+Developer;Production+Systems+%26+Automation;PHP+Native+%C2%B7+MySQL+%C2%B7+JavaScript" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Arimo&weight=400&size=22&pause=1200&color=E6EDF3&center=true&vCenter=true&width=520&height=45&lines=Software+Developer;Production+Systems+%26+Automation;PHP+Native+%C2%B7+MySQL+%C2%B7+JavaScript" alt="" />
 
 ### Eka Danar Arrasyid
 
-Production & Maintenance Administrator at PT. Kenco Manufactur Indonesia<br>
+Production &amp; Maintenance Administrator at PT. Kenco Manufaktur Indonesia<br>
 Informatics Engineering — Universitas Pelita Bangsa
 
 <br>
 
-<a href="https://edanararrasyid.my.id"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=safari&logoColor=E6EDF3&labelColor=0D1117" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/ekadanararrasyid"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117" alt="LinkedIn" /></a>
-<a href="https://instagram.com/danar_arrsyd"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E6EDF3&labelColor=0D1117" alt="Instagram" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=safari&logoColor=E6EDF3&labelColor=0D1117)](https://edanararrasyid.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117)](https://www.linkedin.com/in/ekadanararrasyid)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E6EDF3&labelColor=0D1117)](https://www.instagram.com/danar_arrsyd)
 
 </div>
 
@@ -22,6 +22,10 @@ Informatics Engineering — Universitas Pelita Bangsa
 ### About
 
 I build internal systems for a stamping-press automotive manufacturer — the kind of software that runs on the shop floor, not in a demo. My work sits between production planning and engineering: I understand the process first, then write the system around it.
+
+- **SINNIC** — PPIC & stock opname platform. PHP Native MVC, 16-table schema, 9 role levels. Deployed in production.
+- **Kenco Career Portal** — recruitment portal with OTP verification via PHPMailer.
+- **Dandori Loss Time System** — Google Sheets + Apps Script, iterated through five schema revisions.
 
 Currently building a freelance web & software development practice, with a focus on AI-assisted development workflows.
 
